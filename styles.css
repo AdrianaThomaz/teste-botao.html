@@ -1,0 +1,17 @@
+.titulo  {
+        Color:blue;
+        text-align:center;
+      }
+      table {
+      width:50%;
+      border-collapse:collapse;
+      margin:auto;
+      }
+      th,td{
+        border:1px solid black;
+        padding:8px;
+        text-align:left;
+      }
+      th{
+        background-color:#f2f2f2;
+      }
